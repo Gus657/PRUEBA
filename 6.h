@@ -7,7 +7,7 @@ using namespace std;
 Gustavo Perez
 0901-16-420
 Ingenieria en Sitemas
-Programacion III s
+Programacion III si
 Seccion A
 Proyecto: Arbol de Calculo
 */
